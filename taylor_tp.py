@@ -1,6 +1,4 @@
-#code
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 TP : Approximation polynomiale par la méthode de Taylor (Ordre 3)
 Fichier : taylor_tp.py
